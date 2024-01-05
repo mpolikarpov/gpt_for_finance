@@ -14,3 +14,11 @@ The dataset can be downloaded from [here](https://huggingface.co/datasets/financ
 ## Code 
 
 `main.py` is used to analyse Financial PhraseBank dataset with GPT 3.5 and GPT 4.0.
+
+----
+
+## Results 
+
+| Model | Accuracy | F1 Score |
+| ----- | -------- | -------- |
+| gpt-3.5-turbo-instruct| 73% | 98%|
