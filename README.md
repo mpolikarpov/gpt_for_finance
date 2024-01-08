@@ -21,4 +21,4 @@ The dataset can be downloaded from [here](https://huggingface.co/datasets/financ
 
 | Model | Accuracy | F1 Score |
 | ----- | -------- | -------- |
-| gpt-3.5-turbo-instruct| 73% | 98%|
+| gpt-3.5-turbo-instruct| 78% | 77%|
